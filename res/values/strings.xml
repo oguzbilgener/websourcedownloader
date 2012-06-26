@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, DownloaderActivity!</string>
+    <string name="app_name">Web Source Downloader</string>
+    
+    <string name="downloader_title">Download &amp; View Source</string>
+    <string name="editor_title">Basic Source Editor</string>
+    
+    <string name="url_hint">http:// &#8230;</string>
+    <string name="submit_text">Go</string>
+    
+    <string name="loading_title">Loading &#8230;</string>
+    <string name="error_title">Error</string>
+    
+    <string name="success_title">Success Title</string>
+    
+    <string name="demo_url">http://oguzdev.com</string>
+    
+    <string name="error_no_url">No URL</string>
+    <string name="error_empty_url">Empty URL</string>
+    <string name="error_invalid_url">Invalid URL</string>
+    <string name="error_no_connection">No Connection</string>
+    <string name="error_unknown_host">Unknown host</string>
+    <string name="error_unknown">Unknown error</string>
+    
+    <string name="warning_click_to_view">Click here to view source</string>
+    
+    <string name="button_save">Save</string>
+    
+    <string name="editor_error_no_file">No file specified.</string>
+    <string name="editor_error_empty_filename">Empty file name.</string>
+    <string name="editor_error_file_not_found">File not found.</string>
+    <string name="editor_success_saved">Saved successfully.</string>
+
+</resources>

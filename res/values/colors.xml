@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <drawable name="red">#7f0000</drawable>
+    <drawable name="blue">#770000ff</drawable>
+    <drawable name="green">#7700ff00</drawable>
+	<drawable name="yellow">#77ffff00</drawable>
+	
+	<drawable name="red3">#c94035</drawable>
+	<drawable name="red5">#a6281e</drawable>
+	<drawable name="darkRed3">#900000</drawable>
+	
+	<drawable name="black">#000000</drawable>
+	<drawable name="white">#ffffff</drawable>
+	
+	<drawable name="grey1">#111111</drawable>
+	<drawable name="grey2">#222222</drawable>
+	<drawable name="grey3">#333333</drawable>
+	<drawable name="grey4">#444444</drawable>
+	<drawable name="grey5">#555555</drawable>
+	<drawable name="grey6">#666666</drawable>
+	<drawable name="grey7">#777777</drawable>
+	<drawable name="grey8">#888888</drawable>
+	<drawable name="grey9">#999999</drawable>
+	<drawable name="grey10">#aaaaaa</drawable>
+	<drawable name="grey11">#bbbbbb</drawable>
+	<drawable name="grey12">#cccccc</drawable>
+	<drawable name="grey13">#dddddd</drawable>
+</resources>
