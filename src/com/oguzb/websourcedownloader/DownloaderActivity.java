@@ -24,7 +24,6 @@ import com.oguzb.websourcedownloader.Utils.Commons;
 
 public class DownloaderActivity extends Activity implements View.OnClickListener
 {
-	// "active" variable is used by the downloader service to determine if activity is running or not
 	public boolean active;
 	private Context context;
 	private Resources res;
@@ -113,7 +112,7 @@ public class DownloaderActivity extends Activity implements View.OnClickListener
     @Override
     public void onPause()
     {
-    	active = true;
+    	active = false;
     	super.onPause();
     }
     
